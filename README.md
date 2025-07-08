@@ -1,0 +1,2 @@
+# AI-Threat-Detection-System
+This project perform real time threat detection on system and resolve them
