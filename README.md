@@ -1,2 +1,2 @@
 # AI-Threat-Detection-System
-This project perform real time threat detection on system and resolve them
+This project perform real time threat detection on system and resolve them, Currently in development...
